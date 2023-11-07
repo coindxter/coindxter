@@ -15,7 +15,10 @@
   </tr>
 </table>
 </p>
+
 ---
+
+
 I'm currently workng on a project that will never be done. A Cyberpatroit hardening scirpt! One that you will never see. Writin in bash and python. Yuppie...
 
 
