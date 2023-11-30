@@ -19,7 +19,9 @@
 ---
 
 
-I'm currently workng on a project that will never be done. A Cyberpatroit hardening scirpt! One that you will never see. Writin in bash and python. Yippie...
+I'm currently workng on 2 projects \
+A Cyberpatroit hardening scirpt! One that you will never see. Writin in bash and python. Yippie...\
+[2 Card Poker using Flet](https://github.com/coindxter/flet_2cardpoker)
 
 
 ---
