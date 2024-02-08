@@ -21,6 +21,7 @@
 
 I'm currently messing with flet a lot\
 I'm also working on a Cyberpatroit hardening scirpt! One that you will never see. Writin in bash and python. Yippie...\
+Now I'm making website 😭\
 [2 Card Poker using Flet](https://github.com/coindxter/flet_2cardpoker)\
 [Blackjack using Flet](https://github.com/coindxter/flet_blackjack)
 
