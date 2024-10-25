@@ -19,12 +19,8 @@
 ---
 
 
-I'm currently messing with flet a lot\
-I'm also working on a Cyberpatroit hardening scirpt! One that you will never see. Writin in bash and python. Yippie...\
-Now I'm making website 😭\
-[2 Card Poker using Flet](https://github.com/coindxter/flet_2cardpoker)\
-[Blackjack using Flet](https://github.com/coindxter/flet_blackjack)
-
+I'm currently working on a project I ain't gotta do, but it's cool I guess. It's a java program that has a main menu and 6 different card games to play from. Go check it out!\
+[Java card games](https://github.com/coindxter/javaCardGames)
 
 ---
 
